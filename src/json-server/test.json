@@ -1,0 +1,13 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server1", "author": "typicode" },
+      { "id": 2, "title": "json-server2", "author": "typicode" },
+      { "id": 3, "title": "json-server3", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "link_1 over", "postId": 1 },
+      { "id": 2, "body": "link_1 token", "postId": 1 },
+      { "id": 3, "body": "link_2 over", "postId": 2 }
+    ],
+    "profile": { "name": "typicode" }
+  }
